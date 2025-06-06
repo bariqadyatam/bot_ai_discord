@@ -19,7 +19,7 @@ Bot Discord sederhana yang memungkinkan pengguna berinteraksi dengan AI Gemini d
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/bot-gemini.git
+git clone https://github.com/bariqadyatam/bot_ai_discord.git
 cd bot-gemini
 ```
 
