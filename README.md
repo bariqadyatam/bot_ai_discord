@@ -29,7 +29,7 @@ cd bot-gemini
 npm install
 ```
 
-###  Buat File .env
+### 3. Buat File .env
 ```.env
 DISCORD_TOKEN=your_discord_bot_token_here
 GEMINI_API_KEY=your_gemini_api_key_here
